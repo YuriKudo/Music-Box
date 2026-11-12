@@ -5,4 +5,4 @@
 *   `JavaScript`: Implement interactive features which like, collection management, music search, and digital booklet access.
 *   `Local data storage`: Used to save users' collection information directly in their beowsers.
 ## Hosting & Deployment Strategy
-[MusicBox will be hosted by GitHub Pages. Users will be access the application through a web browser using a GitHub Pages URL]
+MusicBox will be hosted by GitHub Pages. Users will be access the application through a web browser using a GitHub Pages URL
